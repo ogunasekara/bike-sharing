@@ -9,6 +9,7 @@ Using a dataset for a small bike renting company, this program creates a neural 
 The neural network is three layers, meaning there is an input layer, a hidden layer, and an output layer. Each of the nodes in these layers are connected by weights, which are initialized to a normalized random value at the beginning. When training, we use partial derivatives to see the rate of change in the error with respect to the rate of change of each of the weights. Then, using gradient descent, we can update the weights. This process is run several times depending on the epoch parameter. 
 
 Activation function: Sigmoid
+
 Error function: Mean Squared Error
 
 ## Usage

@@ -31,7 +31,7 @@ For linux/mac, type:
 ```
 Then, install the dependencies with:
 ```
-> conda install numpy, pandas, jupyter notebook
+> conda install numpy pandas jupyter notebook
 ```
 Then, start up a jupyter notebook server to access the .ipynb file. You can look through the network and change parameters or add more features if you wish. Have fun!
 
